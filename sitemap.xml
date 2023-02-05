@@ -21,7 +21,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/platprincipal/</loc>
+         <loc>https://example.com/plats_principals/gratin_de_chou_fleur/</loc>
+         <lastmod>2023-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/plats_principals/medaillons_de_porc/</loc>
+         <lastmod>2023-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/plats_principals/poulet_aux_olives/</loc>
          <lastmod>2023-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
