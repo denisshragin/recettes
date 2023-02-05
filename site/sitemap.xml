@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>https://denisshragin.github.io/recettes/</loc>
          <lastmod>2023-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/about/</loc>
+         <loc>https://denisshragin.github.io/recettes/about/</loc>
          <lastmod>2023-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/desserts/</loc>
+         <loc>https://denisshragin.github.io/recettes/desserts/</loc>
          <lastmod>2023-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/petitdejeuner/</loc>
+         <loc>https://denisshragin.github.io/recettes/petitdejeuner/</loc>
          <lastmod>2023-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/platprincipal/</loc>
+         <loc>https://denisshragin.github.io/recettes/plats_principals/gratin_de_chou_fleur/</loc>
+         <lastmod>2023-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/plats_principals/medaillons_de_porc/</loc>
+         <lastmod>2023-02-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/plats_principals/poulet_aux_olives/</loc>
          <lastmod>2023-02-05</lastmod>
          <changefreq>daily</changefreq>
     </url>

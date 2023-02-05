@@ -1,9 +1,14 @@
-site_name: MkLorum
-site_url : https://example.com/
+site_name: Nos recettes familiales
+site_url : https://denisshragin.github.io/recettes/
 nav:
     - Home: index.md
     - About: about.md
-    - Petit Déjeuner: petitdejeuner.md
-    - Plats principals: platprincipal.md
+    - 'Petit Déjeuner':
+        - 'Crêpes' : 'crepes.md' 
+        - 'Crêpes aux pommes': 'crepes_aux_pommes.md'
+    - 'Plats principals':
+        - 'Gratin de chou-fleur': 'plats_principals/gratin_de_chou_fleur.md'
+        - 'Poulet aux olives': 'plats_principals/poulet_aux_olives.md'
+        - 'Médaillons de porc': 'plats_principals/medaillons_de_porc.md' 
     - Desserts: desserts.md
 theme: material
