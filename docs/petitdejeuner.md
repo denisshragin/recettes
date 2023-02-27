@@ -1,3 +1,0 @@
-## Crêpes aux pommes
-
-# Ingredients

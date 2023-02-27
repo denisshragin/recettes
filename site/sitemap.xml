@@ -2,37 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://denisshragin.github.io/recettes/</loc>
-         <lastmod>2023-02-05</lastmod>
+         <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://denisshragin.github.io/recettes/about/</loc>
-         <lastmod>2023-02-05</lastmod>
+         <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://denisshragin.github.io/recettes/desserts/</loc>
-         <lastmod>2023-02-05</lastmod>
+         <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://denisshragin.github.io/recettes/petitdejeuner/</loc>
-         <lastmod>2023-02-05</lastmod>
+         <loc>https://denisshragin.github.io/recettes/desserts/gateau_chocolat/</loc>
+         <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://denisshragin.github.io/recettes/plats_principals/gratin_de_chou_fleur/</loc>
-         <lastmod>2023-02-05</lastmod>
+         <loc>https://denisshragin.github.io/recettes/desserts/tarte_tatin/</loc>
+         <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://denisshragin.github.io/recettes/plats_principals/medaillons_de_porc/</loc>
-         <lastmod>2023-02-05</lastmod>
+         <loc>https://denisshragin.github.io/recettes/petit_dejeuner/crepes/</loc>
+         <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://denisshragin.github.io/recettes/plats_principals/poulet_aux_olives/</loc>
-         <lastmod>2023-02-05</lastmod>
+         <loc>https://denisshragin.github.io/recettes/petit_dejeuner/crepes_aux_pommes/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/plats_principaux/chausson_au_saumon/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/plats_principaux/gratin_de_chou_fleur/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/plats_principaux/medaillons_de_porc/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/plats_principaux/moules/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/plats_principaux/poulet_aux_olives/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/salades/salade_olivier/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/salades/vinegret/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/soupes/borchtch/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/soupes/soupe_au_chou/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/soupes/soupe_au_poulet/</loc>
+         <lastmod>2023-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://denisshragin.github.io/recettes/soupes/soupe_aux_carottes/</loc>
+         <lastmod>2023-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

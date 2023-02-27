@@ -4,11 +4,35 @@ nav:
     - Home: index.md
     - About: about.md
     - 'Petit Déjeuner':
-        - 'Crêpes' : 'crepes.md' 
-        - 'Crêpes aux pommes': 'crepes_aux_pommes.md'
-    - 'Plats principals':
-        - 'Gratin de chou-fleur': 'plats_principals/gratin_de_chou_fleur.md'
-        - 'Poulet aux olives': 'plats_principals/poulet_aux_olives.md'
-        - 'Médaillons de porc': 'plats_principals/medaillons_de_porc.md' 
-    - Desserts: desserts.md
-theme: material
+        - 'Crêpes': 'petit_dejeuner/crepes.md' 
+        - 'Crêpes aux pommes': 'petit_dejeuner/crepes_aux_pommes.md' 
+    - 'Plats Principaux':
+        - 'Gratin de chou-fleur': 'plats_principaux/gratin_de_chou_fleur.md'
+        - 'Poulet aux olives': 'plats_principaux/poulet_aux_olives.md'
+        - 'Médaillons de porc': 'plats_principaux/medaillons_de_porc.md' 
+        - 'Chausson au saumon': 'plats_principaux/chausson_au_saumon.md'
+        - 'Moules marinière': 'plats_principaux/moules.md'
+    - 'Soupes':
+        - 'Soupe au poulet': 'soupes/soupe_au_poulet.md'
+        - 'Soupe aux carrottes': 'soupes/soupe_aux_carottes.md'
+        - 'Soupe au chou': 'soupes/soupe_au_chou.md'
+        - 'Borchtch': 'soupes/borchtch.md'
+    - 'Salades':
+        - 'Salade Olivier': 'salades/salade_olivier.md'
+        - 'Salade Vinegret': 'salades/vinegret.md'
+    - 'Desserts': 
+        - 'Gâteau au chocolat': 'desserts/gateau_chocolat.md'
+        - 'Tarte tatin': 'desserts/tarte_tatin.md'
+theme: 
+    name: material
+    features:
+    - navigation.footer
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+copyright: Copyright &copy; 2023  Denis Shragin
