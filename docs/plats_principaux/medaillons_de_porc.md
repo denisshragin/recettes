@@ -1,13 +1,13 @@
 ### Ingrédients
 
 ```
-L'huile d'arachide : 1 cuil. à soupe
-Filets de porc taillés en tranches de 2,5 cm (1 po) d'épasseur : 225 g
-Oignon jaune, tranché mince : 1
-Canneberges (fraîches ou surgelées) : 1 tasse (250 mL)
-Porto : 3é4 tasse (200 ml)
-Miel : 1é4 tasse (50 ml)
-Romarin frais, feuilles seulement : 2 cuil. à soupe 
+225 g de filet de porc taillés en tranches de 2,5 cm (1 po) d'épasseur
+1 oignon jaune, tranché mince
+1 tasse (250 mL) de anneberges (fraîches ou surgelées)
+3/4 tasse (200 ml) de porto
+1/4 tasse (50 ml) de miel
+1 cuil. à soupe de l'huile d'arachide
+2 cuil. à soupe de romarin frais, feuilles seulement
 ```
 
 ### Étapes de préparation

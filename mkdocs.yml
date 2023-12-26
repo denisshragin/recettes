@@ -5,7 +5,8 @@ nav:
     - About: about.md
     - 'Petit Déjeuner':
         - 'Crêpes': 'petit_dejeuner/crepes.md' 
-        - 'Crêpes aux pommes': 'petit_dejeuner/crepes_aux_pommes.md' 
+        - 'Crêpes aux pommes': 'petit_dejeuner/crepes_aux_pommes.md'
+        - 'Doigts aux fromage': 'petit_dejeuner/doigts_aux_fromage.md'
     - 'Plats Principaux':
         - 'Gratin de chou-fleur': 'plats_principaux/gratin_de_chou_fleur.md'
         - 'Poulet aux olives': 'plats_principaux/poulet_aux_olives.md'
@@ -23,15 +24,22 @@ nav:
     - 'Desserts': 
         - 'Gâteau au chocolat': 'desserts/gateau_chocolat.md'
         - 'Tarte tatin': 'desserts/tarte_tatin.md'
+        - 'Кекс столичный': 'desserts/keks.md'
+    - 'Boissons':
+        - 'Atelier de mixologie': 'boissons/atelier.md'
 theme: 
     name: material
     features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - md_in_html
+  - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

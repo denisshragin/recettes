@@ -1,19 +1,13 @@
-
-
-Temps de cuisson: 30 minutes
-
-Portions: 6-10
-
-### Ingredients
+### Ingrédients
 
 ```
 2 oeufs
 4 cuillières à table de sucre
 500 mL de kéfir
 4 pommes (grosses et savoureuses)
-1/2 cuillère à thé de sel
 750 mL de farine de blé
 2 cuillières à thé de poudre à pâte
+1/2 cuillère à thé de sel
 4 cuillières à table d'huile végétale
 ```
 

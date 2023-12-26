@@ -18,3 +18,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 # Nos recettes familiales
 
+Bienvenue sur ce petit site, votre source d'inspiration pour des repas qui réchauffent le cœur et créent des liens familiaux. Parcourez nos recettes familiales, allant des classiques réconfortants aux nouvelles découvertes culinaires. Chaque plat raconte une histoire d'amour et de partage. Rejoignez-nous pour explorer le monde délicieux des cuisines familiales et créer des moments inoubliables autour de la table.
+

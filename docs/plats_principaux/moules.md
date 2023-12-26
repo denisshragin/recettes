@@ -1,11 +1,3 @@
-4 portions
-
-Préparation 20 min
-
-Cuisson: 7 ou 8 min
-
-Catégories: Plats principaux
-
 ### Ingrédients
 
 ```

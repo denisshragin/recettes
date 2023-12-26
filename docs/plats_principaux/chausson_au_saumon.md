@@ -1,7 +1,3 @@
-6 à 8 portions
-Pour Denise Cornellier Traiteur
-Catégories: Plats principaux et Plats de poissons
-
 ### Ingrédients
 
 ```
@@ -16,7 +12,8 @@ Sel et poivre noir du moulin
 
 Pour le chausson :
 1 lb de pâte feuilletée "Tender Flake"
-2 crêpes fines salées de 20 cm (8 po) de diamètre, coupées en deux (crêpes bretonnes)
+2 crêpes fines salées de 20 cm (8 po) de diamètre,
+ coupées en deux (crêpes bretonnes)
 1 1/4 lb de filet de saumon sans la peau, coupé en gros morceaux
 1 Oeuf battu
 Sel et poivre blanc ou noir du moulin

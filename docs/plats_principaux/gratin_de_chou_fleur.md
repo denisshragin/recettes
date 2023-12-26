@@ -1,11 +1,11 @@
 ### Ingrédients
 
 ```
-Chou fleur : 1
-Gruyère râpé : 100 g
-Lait: 500 mL
-Beurre : 50 g
-Farine : 6 cuil. à soupe
+1 chou fleur
+100 g de gruyère râpé : 
+500 mL de lait
+50 g de beurre
+6 cuil. à soupe de farine
 Noix de muscade
 Sel, poivre
 ```
