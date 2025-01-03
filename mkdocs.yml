@@ -25,7 +25,7 @@ nav:
         - 'Gâteau au chocolat': 'desserts/gateau_chocolat.md'
         - 'Tarte tatin': 'desserts/tarte_tatin.md'
         - 'Кекс столичный': 'desserts/keks.md'
-        - 'Ванильное печенье': 'croissants_vanille.md'
+        - 'Ванильное печенье': 'desserts/croissants_vanille.md'
     - 'Boissons':
         - 'Atelier de mixologie': 'boissons/atelier.md'
 theme: 
@@ -44,4 +44,4 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-copyright: Copyright &copy; 2023  Denis Shragin
+copyright: Copyright &copy; 2023-2025  Denis Shragin
