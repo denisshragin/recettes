@@ -25,6 +25,7 @@ nav:
         - 'Gâteau au chocolat': 'desserts/gateau_chocolat.md'
         - 'Tarte tatin': 'desserts/tarte_tatin.md'
         - 'Кекс столичный': 'desserts/keks.md'
+        - 'Ванильное печенье': 'croissants_vanille.md'
     - 'Boissons':
         - 'Atelier de mixologie': 'boissons/atelier.md'
 theme: 
