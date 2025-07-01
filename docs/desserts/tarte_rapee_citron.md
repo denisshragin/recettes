@@ -23,7 +23,7 @@ Garniture:
 
 ### Étapes de préparation
 
-** Pâte **
+__Pâte__
 
 1. Chemiser un moule de papier cuisson avec revêtement antiadhésif.
 2. Tamiser la farine et la mélanger avec la levure chimique et le sel.
@@ -31,7 +31,7 @@ Garniture:
 4. Ajouter le beurre froid coupé en dés au mélange de farine, melanger bien pour obtenir une fine texture sableuse. Ajouter le mélange à base de crème et pétrir rapidement jusqu’à obtention d’une pâte homogène.
 5. Diviser la pâte en deux parties. Étaler la plus grande dans le moule, de façon uniforme, en formant un petit rebord de 1,5 cm. Réserver au réfrigérateur pendant 1 heure. Aplatir la plus petite partie, l’envelopper dans du film alimentaire et placer au congélateur pendant 1 heure.
 
-** Garniture **
+__Garniture__
 
 6. Prélever le zeste des citrons sans la partie blanche, retirer la peau et les pépins de la pulpe.
 7. Couper l’orange pelée et enlever les pépins.
@@ -40,7 +40,7 @@ Garniture:
 10. Cuire à feu moyen en remuant jusqu’à épaississement.
 11. Laisser refroidir complètement. 
 
-** Tarte **
+__Tarte__
 
 12. Étaler la garniture sur la pâte refroidie dans le moule.
 13. Râper la pâte congelée sur la garniture à l’aide d’une râpe à gros trous.

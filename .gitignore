@@ -27,3 +27,5 @@ venv
 .Trashes
 
 site
+
+docs/.DS_Store
