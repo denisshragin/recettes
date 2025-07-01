@@ -28,6 +28,7 @@ nav:
         - 'Ванильное печенье': 'desserts/croissants_vanille.md'
         - 'Cinnabons': 'desserts/cinnabons.md'
         - 'Brioche': 'desserts/brioche.md'
+        - 'Tarte rapée au citron': 'desserts/tarte_rapee_citron.md'
     - 'Boissons':
         - 'Atelier de mixologie': 'boissons/atelier.md'
 theme: 
