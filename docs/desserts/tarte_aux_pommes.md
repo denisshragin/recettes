@@ -1,11 +1,11 @@
 ### 1. Pâte
 ### INGRÉDIENTS
 ```
-Farine blanche tout usage-300 g (2 tasses)
-Sel-1,25 ml (¼ c. à thé)
-Sucre (facultatif, si pâte sucrée)-30 ml (2 c. à soupe)
-Beurre froid en dés-150 g (⅔ tasse)
-Eau glacée-90 ml (6 c. à soupe)
+Farine blanche tout usage - 300 g (2 tasses)
+Sel - 1,25 ml (1/4 c. à thé)
+Sucre (facultatif, si pâte sucrée) - 30 ml (2 c. à soupe)
+Beurre froid en dés - 150 g (2/3 tasse)
+Eau glacée - 90 ml (6 c. à soupe)
 ```
 ### PRÉPARATION
 * Dans un bol, mélangez la farine, le sel et le sucre.
@@ -17,8 +17,7 @@ Réfrigérez-les au minimum une heure avant de les abaisser dans les moules à t
 ### NOTE DE FIN
 Un autre temps de repos est fortement conseillé après avoir abaissé les pâtes à l’aide du rouleau à pâte.
 
-!!! tip
-    Conseils de pro
+!!! Conseils
 
     PARLONS TEXTURES!
 
@@ -74,6 +73,6 @@ Bonne appetit!
 
 **Sources :**
 
-* Pâte brisée de base : https://ici.radio-canada.ca/mordu/recettes/1479/preparer-pate-brisee-base
+**Pâte brisée de base :** [https://ici.radio-canada.ca/mordu/recettes/1479/preparer-pate-brisee-base](https://ici.radio-canada.ca/mordu/recettes/1479/preparer-pate-brisee-base)
 
-* Tarte aux pommes : https://www.recettes.qc.ca/recettes/recette/tarte-aux-pommes-classique-218491
+**Tarte aux pommes :** [https://www.recettes.qc.ca/recettes/recette/tarte-aux-pommes-classique-218491](https://www.recettes.qc.ca/recettes/recette/tarte-aux-pommes-classique-218491)

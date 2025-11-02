@@ -29,6 +29,8 @@ nav:
         - 'Cinnabons': 'desserts/cinnabons.md'
         - 'Brioche': 'desserts/brioche.md'
         - 'Tarte rapée au citron': 'desserts/tarte_rapee_citron.md'
+        - 'Tarte aux pommes' : 'desserts/tarte_aux_pommes.md'
+        - 'Яблочный пирог' : 'desserts/tarte_aux_pommes_russe.md'
     - 'Boissons':
         - 'Atelier de mixologie': 'boissons/atelier.md'
 theme: 
