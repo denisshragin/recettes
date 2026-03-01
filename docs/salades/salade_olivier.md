@@ -3,12 +3,12 @@
 ```
 Pommes de terre (à chair ferme)	            4-5 moyennes
 Carottes	                                2 moyennes
-Œufs	                                    4-5
-Filet de porc                       	    25-300 g
-Cornichons (sans sucre)	                    6-8 selon la taille
+Œufs	                                    4-5                  
+Filet de porc                       	    250-300 g
+Cornichons (sans sucre)	                    5-7 selon la taille
 Petits pois (en conserve)	                1 boîte
-Mayonnaise                          	    150g à 200g
-Oignon jaune                                1
+Mayonnaise                          	    environ 120-150
+Oignon jaune                                1                            | 1
 Oignon vert (ciboulette)                	Selon le goût
 Assaisonnement	                            Sel et poivre	Au goût
 ```
