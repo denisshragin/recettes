@@ -1,14 +1,14 @@
 ### Ingrédients
 
 ```
-Pommes de terre (à chair ferme)	            6-7 moyennes
-Carottes	                                4 moyennes
-Œufs	                                    6
-Filet de porc                       	    500-600 g
+Pommes de terre (à chair ferme)	            4-5 moyennes
+Carottes	                                2 moyennes
+Œufs	                                    4-5
+Filet de porc                       	    25-300 g
 Cornichons (sans sucre)	                    6-8 selon la taille
 Petits pois (en conserve)	                1 boîte
-Liaison	Mayonnaise (de bonne qualité)	    150g à 200g
-oignon jaune                                1
+Mayonnaise                          	    150g à 200g
+Oignon jaune                                1
 Oignon vert (ciboulette)                	Selon le goût
 Assaisonnement	                            Sel et poivre	Au goût
 ```
