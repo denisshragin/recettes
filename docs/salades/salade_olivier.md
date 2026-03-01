@@ -1,7 +1,7 @@
 ### Ingrédients
 
 ```
-Pommes de terre (à chair ferme)	            4-5 moyennes
+Pommes de terre             	            4-5 moyennes
 Carottes	                                2 moyennes
 Œufs	                                    4-5                  
 Filet de porc                       	    250-300 g
@@ -17,31 +17,31 @@ Assaisonnement	                            Sel et poivre	Au goût
 
 **La cuisson (Étape cruciale)**
 
-Faites cuire les pommes de terre et les carottes avec leur peau dans de l'eau bouillante salée 20-25 minutes.
+Faire cuire les pommes de terre et les carottes avec leur peau dans de l'eau bouillante salée pendant 20-25 minutes.
 
 !!! tip
-    L'astuce de pro : Ne les faites pas trop cuire ! Elles doivent rester fermes pour pouvoir être coupées en dés nets sans s'écraser.
+    L'astuce de pro : Ne pas trop les faire cuire ! Elles doivent rester fermes pour pouvoir être coupées en dés nets sans s'écraser.
 
-Faites cuire les œufs pour qu'ils soient durs (environ 10-11 minutes).
-Faites cuire de la viande (filet de porc) dans de l'eau bouillante salée 35-40 minutes. 
+Faire cuire les œufs pour qu'ils soient durs (environ 10-11 minutes).
+Faire cuire de la viande (filet de porc) dans de l'eau bouillante salée 35-40 minutes. 
 
 **La découpe "en dés"**
 
-Faire refroidir et éplucher les pommes de terre, les carottes, les oeufs, la viande.
+Faire refroidir et éplucher les pommes de terre, les carottes, les œufs, la viande.
 
-Coupez les pommes de terre, les carottes, les œufs, la viande et les cornichons en petits dés de taille identique.
+Couper les pommes de terre, les carottes, les œufs, la viande et les cornichons en petits dés de taille identique.
 
-Émincez finement l'oignon.
+Émincer finement l'oignon.
 
 **L'assemblage**
 
-Dans un grand saladier, mélangez délicatement tous les ingrédients découpés.
+Dans un grand saladier, mélanger délicatement tous les ingrédients découpés.
 
-Égoutetez les petits pois et ajoutez les dans la salade.
+Égoutter les petits pois et les ajouter à la salade.
 
-Ajoutez la mayonnaise progressivement. La salade doit être bien liée, mais ne doit pas "noyer" dans la sauce.
+Ajouter la mayonnaise progressivement. La salade doit être bien liée, mais ne doit pas être noyée dans la sauce.
 
-Salez et poivrez à votre convenance.
+Saler et poivrer à votre convenance.
 
 !!! tip
     Quelques conseils d'ami 
