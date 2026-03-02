@@ -23,7 +23,11 @@ Faire cuire les pommes de terre et les carottes avec leur peau dans de l'eau bou
     L'astuce de pro : Ne pas trop les faire cuire ! Elles doivent rester fermes pour pouvoir être coupées en dés nets sans s'écraser.
 
 Faire cuire les œufs pour qu'ils soient durs (environ 10-11 minutes).
-Faire cuire de la viande (filet de porc) dans de l'eau bouillante salée 35-40 minutes. 
+
+Faire bouillir l'eau avant d'y plonger le filet de porc. Laisser cuire à feu moyen pendant 35-40 minutes. Ajouter du sel environ après 20 minutes. Ajouter quelques grains de poivre ou une feuille de laurier pour plus de saveur à la fin de cuisson.
+
+!!! tip
+    Une fois la viande cuite, si vous avez le temps, laissez-la refroidir directement dans son bouillon. Cela l'empêche de s'assécher au contact de l'air et la rendra beaucoup plus facile à couper en dés bien nets.
 
 **La découpe "en dés"**
 
