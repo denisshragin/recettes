@@ -8,7 +8,7 @@ Filet de porc                       	    250-300 g
 Cornichons (sans sucre)	                    5-7 selon la taille
 Petits pois (en conserve)	                1 boîte
 Mayonnaise                          	    environ 120-150
-Oignon jaune                                1                            | 1
+Oignon jaune                                1           
 Oignon vert (ciboulette)                	Selon le goût
 Assaisonnement	                            Sel et poivre	Au goût
 ```
